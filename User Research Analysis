@@ -1,0 +1,80 @@
+# User Research Analysis
+Designing an effective user experience (UX) strategy for Teachermatic begins with a deep understanding of the needs, behaviours, and challenges faced by its target users. Educators, who are at the core of this platform, rely on tools that simplify their teaching processes while improving efficiency and engagement. 
+This research phase focuses on uncovering insights into teaching practices, common pain points, and preferences among schoolteachers, college educators, and university lecturers. These findings will guide the refinement and development of Teachermatic’s features, ensuring the platform effectively addresses its users' real-world demands.
+
+
+# Methodology
+To gather meaningful data, a survey targeting educators across different teaching levels was designed. The survey aimed to capture their professional experiences, teaching habits, and opinions about existing tools. 
+In the absence of direct access to real users during this research phase, the survey responses were simulated based on patterns observed in secondary sources, including existing user studies regarding how educators interact with digital tools.
+The full survey and the details of the research and findings to simulate surveys answers, along with accompanying data visualizations and analysis, are presented in the appendices section, located at the end of the report. 
+
+
+This simulation was learned by credible secondary data to construct realistic user personas and behaviour patterns. While these simulated responses may not fully reflect individual user experiences, they provide a hypothetical yet informed starting point. This approach enables the identification of potential challenges, user needs, and areas where Teachermatic can offer valuable solutions. 
+Future phases of the research will seek to validate these findings through direct user engagement, ensuring that the platform’s features remain aligned with the authentic needs of its users.
+
+
+
+Psychographic Attributes
+Psychographic Attribute	Description
+Efficiency-driven	Teachers value tools that save time and reduce administrative burdens.
+Open to innovation	Many educators are willing to adopt AI tools if they see a clear value.
+User interface sensitivity
+
+	Teachers prefer platforms with clean, intuitive designs to minimize frustration.
+Desire for personalization	Flexibility to create tailored lesson plans and assessments is highly desirable.
+
+User Needs Table
+User Need	Description
+Time-saving tools	Automate repetitive tasks like lesson planning and assessments.
+Ease of use	Provide an intuitive interface that minimizes complexity and reduces learning time.
+Customization options	Allow flexibility to adapt tools to specific curriculum and teaching goals.
+Seamless LMS integration	Ensure compatibility with existing systems like Google Classroom or Blackboard.
+Gamification and engagement	Include tools that promote student interaction and motivation in the classroom.
+
+All User Groups:
+Attribute	Details
+Demographic	
+School teachers (60%), 
+college educators (30%), 
+university lecturers (10%)
+
+Geographic	Simulated responses assumed educators from urban/suburban schools globally
+Psychographic	Efficiency-driven, open to innovation, user interface sensitivity
+Behavioural	Preference for automated tools, limited adoption of AI.
+
+
+
+# Pain Point Analysis 
+
+An analysis of the Teachermatic Lesson Plan Generator interface revealed critical usability challenges below illustrated.
+
+ 
+The first interface the user is presented with, after clicking on “Lesson Plan Generator”. 
+There is an overload of form inputs for "Skills," "Learning Needs," and "Preferred Pedagogical Models." 
+Teachers unfamiliar with pedagogical language may find it intimidating or time-consuming to fill out.
+
+The output appears generic and lacks deeper personalization based on the input provided. 
+For example, while the lesson plan breaks down activities and timing, it doesn’t go deeper into dynamic, 
+teacher-specific customization like adding real-time links, multimedia, or specific teaching aids.
+ 
+ 
+Finally, the "Export as" options are restricted to PDF and Word Docx. 
+This may not be ideal for teachers who work in other platforms or Learning Management Systems (LMS) like Google Classroom or Blackboard.
+
+Also, the generated lesson plan is functional but visually plain. 
+For teachers presenting or sharing materials with administrators or parents, a 
+visually appealing format is important. Adding customizable templates with branding options such as school logos, 
+teacher names can improve user experience.
+
+
+Conclusion
+This research highlights the need for intuitive, efficient, and customizable tools that address the unique challenges faced by educators. 
+By identifying key pain points such as time-consuming processes and poor user interfaces, this study provides actionable insights to 
+guide the improvement of Teachermatic's platform. 
+One of the primary areas for improvement is the Lesson Plan Generator, 
+which should focus on offering customization and ease of use. Similarly, the Student Profile creator would benefit with enhancements. 
+Simplifying the interface across all features will address usability concerns, making the platform more approachable and 
+increasing its adoption among teachers. These enhancements will address current user needs but also raise long-term engagement with the platform.
+
+The findings from this research will shape the next phases of development, including user journey mapping and prototype design. 
+
